@@ -20,7 +20,7 @@ Ensure you have the following installed:
    npm install
    ```
 
-3. **Install dependencies**:  
+3. **Start the application**:  
    Use the following command in each terminal:
    ```bash
    npm run dev
